@@ -3,7 +3,7 @@
 
 * Use the  following credentials to login
 
-username - Anuj  Password - 123456
+username - Deepanshu  Password - 123456
 
 
 ## Available Scripts
