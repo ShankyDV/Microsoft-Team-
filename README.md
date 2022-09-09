@@ -1,124 +1,45 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]( https://justvideoit.netlify.app/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)]( https://justvideoit.netlify.app/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]( https://justvideoit.netlify.app/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
-This is a video calling Web application where users can call other user via Video and Audio Calling or Text-Messaging. There is also real time chat functionality.
+# Chat App: [Link](https://letschatit.netlify.app/)
 
-**Agile Methodology was used for building this project.**
-The project includes -
+* Use the  following credentials to login
 
-* *Test-driven development*
-
-* *Code refactoring*
-
-* *Continuous integration*
-
-* *Simple code design*
-
-* *Pair-programming*
-
-## Live Website link 
-***
-
-**Chat App Link** - ***https://letschatit.netlify.app/***
-
-For opening the Chat System use folllowing login credentials:
-> Username: Anuj
-> Password: 123456
+username - Anuj  Password - 123456
 
 
-**Video Meet Link** - ***https://justvideoit.netlify.app/***
+## Available Scripts
 
-## Technologies
-***
-A list of technologies used within the project:
-* WebRTC 
-* Node.js
-* Express
-* Socket.io
-* React
-* Chatengine.io (API used for chat app)
+In the project directory, you can run:
 
-### Screenshots
-* Login Page
+### `npm start`
 
-<img width="959" alt="login page" src="https://user-images.githubusercontent.com/52133014/125472877-77b43bb8-65cc-4f4c-aaa9-08be55f71089.png">
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-* Chat App
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-<img width="956" alt="Chat App" src="https://user-images.githubusercontent.com/52133014/125472953-877ecd54-f9ef-4d28-9924-b56445ca906d.png">
+### `npm test`
 
-* Meeting Main Page
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<img width="942" alt="Main" src="https://user-images.githubusercontent.com/52133014/125473020-f3af71fa-e292-49c5-8fe4-12a078d2892d.png">
+### `npm run build`
 
-* Dark Theme
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<img width="941" alt="Dark theme" src="https://user-images.githubusercontent.com/52133014/125473063-5fc9ea9f-2db5-46d4-afe9-1513335ed639.png">
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* Filters
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-<img width="953" alt="filter" src="https://user-images.githubusercontent.com/52133014/125473118-8f9d9508-05a0-44d6-88a9-848ee7644b13.png">
+### `npm run eject`
 
-* Incomming Call
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-<img width="953" alt="incomming call" src="https://user-images.githubusercontent.com/52133014/125473173-a4c51fb4-eea2-4c6a-8811-3bd0dd1b5d0d.png">
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-* After joining call
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-<img width="945" alt="After joining meet" src="https://user-images.githubusercontent.com/52133014/125473306-1356bec1-d6de-4b92-91e8-84c5341e041a.png">
-
-## Features
-***
-**Microsoft Teams Clone features:**
-* CHAT
-
-- [x]	Add new chat
-
-- [x]	Add multiple people to single chat
-
-- [x]	Send and receive messages
-
-- [x] See if person if offline/online
-
-- [x]	Delete chats
-
-- [x]	Remove a person from chat list
-
-- [x]	Read Receipts
-
-- [x]	View images shared in the chat
-
-- [x]	Change name by which you enter the call
-
-
-* Video 
-
-- [x]	Add multiple participants into the video meet by sharing link
-
-- [x]	Mute / camera off button
-
-- [x]	Chat feature within video meet
-
-- [x]	Share meeting code through social media as well as mails
-
-- [x]	Change name in video meet
-
-- [x]	Different filters can be applied
-
-- [x]	Dark and light mode
-
-- [x]	Record Meet
-
-- [x]	Current Time as well as Call Duration
-
-
-## Future Scope
-***
-* Blur Background
-
-* Subtitles
-
-* Join Via Call
-
-* White Board along with code compiler
-
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
