@@ -52,19 +52,19 @@ A list of technologies used within the project:
 
 * Dark Theme
 
-<img width="941" alt="Dark theme" src="https://user-images.githubusercontent.com/52133014/125473063-5fc9ea9f-2db5-46d4-afe9-1513335ed639.png">
+<img width="941" alt="Dark theme" src="Screenshot/WhatsApp Image 2022-10-31 at 11.23.15 AM.jpeg">
 
 * Filters
 
-<img width="953" alt="filter" src="https://user-images.githubusercontent.com/52133014/125473118-8f9d9508-05a0-44d6-88a9-848ee7644b13.png">
+<img width="953" alt="filter" src= "Screenshot/WhatsApp Image 2022-10-31 at 11.25.50 AM.jpeg">
 
 * Incomming Call
 
-<img width="953" alt="incomming call" src="https://user-images.githubusercontent.com/52133014/125473173-a4c51fb4-eea2-4c6a-8811-3bd0dd1b5d0d.png">
+<img width="953" alt="incomming call" src="Screenshot/WhatsApp Image 2022-10-31 at 11.27.28 AM.jpeg">
 
 * After joining call
 
-<img width="945" alt="After joining meet" src="https://user-images.githubusercontent.com/52133014/125473306-1356bec1-d6de-4b92-91e8-84c5341e041a.png">
+<img width="945" alt="After joining meet" src="Screenshot/WhatsApp Image 2022-10-31 at 11.29.37 AM.jpeg">
 
 ## Features
 ***
