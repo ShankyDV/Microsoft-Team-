@@ -48,7 +48,7 @@ A list of technologies used within the project:
 
 * Meeting Main Page
 
-<img width="942" alt="Main" src=""C:\Users\Shanky\OneDrive\Desktop\Placement\Microsoft-teams-Clone\WhatsApp Image 2022-10-31 at 11.22.42 AM.jpeg"">
+<img width="942" alt="Main" src="https://ibb.co/8j9rn06">
 
 * Dark Theme
 
