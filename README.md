@@ -48,7 +48,7 @@ A list of technologies used within the project:
 
 * Meeting Main Page
 
-<img width="942" alt="Main" src="https://drive.google.com/file/d/1yZia12cXpfCMKsLEzeCsenyg5y4C_UWk/view?usp=share_link">
+<img width="942" alt="Main" src="Screenshot/WhatsApp Image 2022-10-31 at 11.22.42 AM.jpeg">
 
 * Dark Theme
 
